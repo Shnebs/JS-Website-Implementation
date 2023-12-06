@@ -1,2 +1,2 @@
 # JS Website Implementation
- put the mf emelemts in the mf website
+ put the emelemts in the website
